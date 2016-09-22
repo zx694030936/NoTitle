@@ -31,5 +31,8 @@ public class MainActivity extends AppCompatActivity {
             winParams.flags &= ~bits;
         }
         win.setAttributes(winParams);
+
+        /////////////////////////////////////////////////////////////////////////
+        //////////////////////////////.kpo,.
     }
 }
